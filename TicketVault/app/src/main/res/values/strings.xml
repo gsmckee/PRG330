@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicketVault</string>
+    <string-array name="banana">
+        <item>Metallica $59.99</item>
+        <item>Lady_Gaga $69.99</item>
+        <item>Justin_Bieber $0.99</item>
+    </string-array>
+</resources>

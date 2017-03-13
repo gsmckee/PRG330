@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jsr-275~svn-repository/!svn/ver/72/trunk/jsr-275/src/main/java/javax/measure
+END
+Measure.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/Measure.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/package-info.java
+END
+MeasureFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/MeasureFormat.java
+END
+Measurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/Measurable.java
+END

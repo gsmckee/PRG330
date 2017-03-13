@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jsr-275~svn-repository/!svn/ver/63/trunk/jsr-275/src/main/java/javax/measure/quantity
+END
+RadioactiveActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/RadioactiveActivity.java
+END
+LuminousIntensity.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/LuminousIntensity.java
+END
+LuminousFlux.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/LuminousFlux.java
+END
+MagneticFlux.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/MagneticFlux.java
+END
+Area.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Area.java
+END
+Quantity.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Quantity.java
+END
+DataRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/DataRate.java
+END
+RadiationDoseAbsorbed.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/RadiationDoseAbsorbed.java
+END
+RadiationDoseEffective.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/RadiationDoseEffective.java
+END
+DynamicViscosity.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/DynamicViscosity.java
+END
+SolidAngle.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/SolidAngle.java
+END
+Length.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Length.java
+END
+Pressure.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Pressure.java
+END
+ElectricPermittivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/ElectricPermittivity.java
+END
+Power.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Power.java
+END
+KinematicViscosity.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/KinematicViscosity.java
+END
+DataAmount.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/DataAmount.java
+END
+ElectricPotential.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/ElectricPotential.java
+END
+MagnetomotiveForce.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/MagnetomotiveForce.java
+END
+Dimensionless.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Dimensionless.java
+END
+Frequency.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Frequency.java
+END
+ElectricCurrent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/ElectricCurrent.java
+END
+Volume.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Volume.java
+END
+MagneticPermeability.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/MagneticPermeability.java
+END
+MagneticFieldStrength.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/MagneticFieldStrength.java
+END
+VolumetricDensity.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/VolumetricDensity.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/package-info.java
+END
+Illuminance.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Illuminance.java
+END
+Duration.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Duration.java
+END
+ElectricInductance.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/ElectricInductance.java
+END
+ElectricCharge.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/ElectricCharge.java
+END
+Force.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Force.java
+END
+Torque.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Torque.java
+END
+Energy.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Energy.java
+END
+CatalyticActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/CatalyticActivity.java
+END
+AngularAcceleration.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/AngularAcceleration.java
+END
+Wavenumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Wavenumber.java
+END
+MassFlowRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/MassFlowRate.java
+END
+AmountOfSubstance.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/AmountOfSubstance.java
+END
+Acceleration.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Acceleration.java
+END
+VolumetricFlowRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/VolumetricFlowRate.java
+END
+AngularVelocity.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/AngularVelocity.java
+END
+Velocity.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Velocity.java
+END
+MagneticFluxDensity.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/MagneticFluxDensity.java
+END
+IonizingRadiation.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/IonizingRadiation.java
+END
+Luminance.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Luminance.java
+END
+ElectricConductance.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/ElectricConductance.java
+END
+ElectricResistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/ElectricResistance.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Action.java
+END
+Mass.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Mass.java
+END
+Temperature.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Temperature.java
+END
+Angle.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/Angle.java
+END
+ElectricCapacitance.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/quantity/ElectricCapacitance.java
+END

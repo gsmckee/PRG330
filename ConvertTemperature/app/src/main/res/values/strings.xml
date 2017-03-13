@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConvertTemperature</string>
+    <string-array name="stndrdOfMeasure">
+        <item> "Celsius to Fahrenheit" </item>
+        <item> "Fahrenheit to Celsius" </item>
+    </string-array>
+</resources>

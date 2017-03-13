@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CentralCollege</string>
+    <string-array name = "entries">
+        <item>Spring</item>
+        <item>Summer</item>
+        <item>Fall</item>
+    </string-array>
+
 </resources>

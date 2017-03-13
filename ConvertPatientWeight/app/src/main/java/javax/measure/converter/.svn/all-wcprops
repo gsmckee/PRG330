@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jsr-275~svn-repository/!svn/ver/63/trunk/jsr-275/src/main/java/javax/measure/converter
+END
+AddConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/converter/AddConverter.java
+END
+MultiplyConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/converter/MultiplyConverter.java
+END
+UnitConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/converter/UnitConverter.java
+END
+LogConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/converter/LogConverter.java
+END
+LinearConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/converter/LinearConverter.java
+END
+ConversionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/converter/ConversionException.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/converter/package-info.java
+END
+ExpConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/converter/ExpConverter.java
+END
+RationalConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/converter/RationalConverter.java
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jsr-275~svn-repository/!svn/ver/71/trunk/jsr-275/src/main/java/javax/measure/unit
+END
+CompoundUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/unit/CompoundUnit.java
+END
+TransformedUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/unit/TransformedUnit.java
+END
+SystemOfUnits.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/unit/SystemOfUnits.java
+END
+Dimension.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/unit/Dimension.java
+END
+UCUM.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/unit/UCUM.java
+END
+Unit.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/unit/Unit.java
+END
+NonSI.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/unit/NonSI.java
+END
+DerivedUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/unit/DerivedUnit.java
+END
+AlternateUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/unit/AlternateUnit.java
+END
+AnnotatedUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/unit/AnnotatedUnit.java
+END
+UnitFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/unit/UnitFormat.java
+END
+SI.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/unit/SI.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/unit/package-info.java
+END
+BaseUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/unit/BaseUnit.java
+END
+ProductUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jsr-275~svn-repository/!svn/ver/76/trunk/jsr-275/src/main/java/javax/measure/unit/ProductUnit.java
+END

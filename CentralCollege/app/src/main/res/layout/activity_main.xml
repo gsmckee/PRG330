@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
@@ -16,17 +17,82 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
-        android:layout_toEndOf="@+id/textView"
         android:id="@+id/textView"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:textColor="?android:attr/textColorPrimaryInverse"
         android:textSize="@android:dimen/app_icon_size" />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textColor="@android:color/background_light" />
+
+    <Button
+        android:text="Calculate Cost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button"
+        android:layout_above="@+id/textView3"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/editText"
+        android:background="@android:color/background_light"
+        android:textSize="@dimen/activity_vertical_margin"
+        android:layout_alignBaseline="@+id/button"
+        android:layout_alignBottom="@+id/button"
+        android:layout_toLeftOf="@+id/button"
+        android:layout_toStartOf="@+id/button" />
+
     <Spinner
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:id="@+id/spinner"
+        android:background="@android:color/background_light"
+        android:entries="@array/entries"
         android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:id="@+id/spinner" />
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="23dp" />
+
+    <TextView
+        android:text="Cost Per Credit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:background="@android:color/background_light"
+        android:textSize="@dimen/activity_vertical_margin"
+        android:layout_alignBaseline="@+id/spinner"
+        android:layout_alignBottom="@+id/spinner"
+        android:layout_toLeftOf="@+id/button"
+        android:layout_toStartOf="@+id/button" />
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        app:srcCompat="@drawable/college"
+        android:id="@+id/imageView"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/spinner"
+        android:layout_toEndOf="@+id/spinner" />
+
+    <TextView
+        android:text="Please enter the number of credits:"
+        android:id="@+id/textView4"
+        android:textColor="@android:color/background_light"
+        android:layout_height="16dp"
+        android:layout_above="@+id/button"
+        android:layout_alignLeft="@+id/editText"
+        android:layout_alignStart="@+id/editText"
+        android:layout_width="225dp" />
 </RelativeLayout>
